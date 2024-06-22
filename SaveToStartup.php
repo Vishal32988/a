@@ -70,7 +70,7 @@ if (isset($_POST['download_excel'])) {
         <form method="post">
             <button type="submit" name="download_excel" class="btn-download">Download Excel File</button>
         </form>
-        <h3>if you want to download <a href="task1.php">EXE FILE</a></h3>
+        <h3>if you want to download <a href="index.php">EXE FILE</a></h3>
     </div>
 </body>
 </html>
