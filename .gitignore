@@ -1,0 +1,125 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.venv/
+.env
+.venv/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.idea/
+*.classpath
+*.project
+*.settings/
+target/
+build/
+*.log
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+*.old
+*.tmp
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+*.iws
+
+# System Files
+*.out
+*.pid
+*.seed
+*.pid.lock
+
+# C/C++
+*.o
+*.a
+*.so
+*.dll
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Compressed Files
+*.zip
+*.tar.gz
+*.rar
+
+# Database
+*.db
+*.sqlite
+
+# Other binary files
+*.bin
+
+
+# Temporary files created by editors or IDEs
+*.bak
+*.tmp
+*.swp
+
+# Backup files
+*.bak
+*.old
+
+# Package files
+*.tgz
+*.rpm
+*.deb
+
+# IDE files
+.vscode/
+.idea/
+
+# Generated files
+dist/
+coverage/
+bin/
+obj/
+vendor/
+package-lock.json
+composer.lock
